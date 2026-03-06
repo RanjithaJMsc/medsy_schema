@@ -4,7 +4,7 @@ setup(
     name="medsy_schema",
     version="4.11.24",
     description="Schema for Flask Admin and User backends",
-    author="wizzgeeks",
+    author="RanjithaJMsc",
     author_email="",
     license="MIT",
     packages=find_packages(),
